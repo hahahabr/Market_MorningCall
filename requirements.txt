@@ -1,0 +1,8 @@
+streamlit>=1.32
+pandas
+numpy
+yfinance
+plotly
+requests
+beautifulsoup4
+statsmodels
